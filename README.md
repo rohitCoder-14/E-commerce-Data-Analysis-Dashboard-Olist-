@@ -77,9 +77,8 @@ These tables are combined to perform end-to-end business analysis.
 
 ## 🛠️ Tools Used
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)  
-* SQL  
-* Excel  
+* Python (Pandas, Matplotlib, Seaborn)  
+* SQL   
 * Power BI  
 
 ---
@@ -87,6 +86,5 @@ These tables are combined to perform end-to-end business analysis.
 ## 🚀 Key Insights
 
 * Late deliveries negatively impact customer ratings  
-* Certain categories drive majority of revenue  
-* Repeat customers contribute significantly to total sales  
+* Certain categories drive majority of revenue   
 * Seasonal trends affect order volume and revenue
