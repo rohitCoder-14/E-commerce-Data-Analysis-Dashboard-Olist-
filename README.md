@@ -253,33 +253,6 @@ An interactive **Power BI dashboard** was created to present the most important 
 
 ---
 
-# 📸 Dashboard Preview
-
-Add your Power BI dashboard screenshot here:
-
-```markdown
-![Power BI Dashboard](images/dashboard.png)
-```
-
-Recommended repository structure:
-
-```text
-images/
-└── dashboard.png
-```
-
-You can also add multiple dashboard pages:
-
-```markdown
-![Sales Dashboard](images/sales-dashboard.png)
-
-![Delivery Dashboard](images/delivery-dashboard.png)
-
-![Customer Analysis](images/customer-analysis.png)
-```
-
----
-
 # 📈 Key Analysis Performed
 
 ### 💰 Sales Performance
